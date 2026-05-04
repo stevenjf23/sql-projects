@@ -23,5 +23,6 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 👉 [Subconsultas](./15.%20Sunconsultas)  
 👉 [Funcion Condicional IF](./16.%20Funcion%20Condicional%20IF)  
 👉 [Funcion Condicional CASE](./17.%20Funcion%20Condicional%20CASE)  
+👉 [Funcion de Conversion CAST](./18.%20Funcion%20de%20Conversion%20CAST)  
 
 📌 Objetivo: Practicar consultas para obtener información de manera eficiente.
