@@ -32,3 +32,27 @@ SELECT año_lanzamiento, COUNT(serie_id) AS total_series FROM series WHERE gener
 )
 SELECT * FROM ListaSeries
 ORDER BY año_lanzamiento ASC;
+
+
+WITH EpisodiosRecientes AS (
+SELECT
+serie_id,
+COUNT(episodio_id) AS num_episodios
+FROM episodios
+GROUP BY serie_id
+),
+Calificaciones AS (
+SELECT
+serie_id,
+AVG(rating_imdb) AS promedio_imdb
+FROM episodios
+GROUP BY serie_id
+)
+SELECT
+s.titulo,
+er.num_episodios,
+c.promedio_imdb
+FROM series s
+JOIN EpisodiosRecientes er ON s.serie_id = er.serie_id
+JOIN Calificaciones c ON s.serie_id = c.serie_id
+ORDER BY c.promedio_imdb DESC, er.num_episodios DESC;
