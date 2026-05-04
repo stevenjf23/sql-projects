@@ -1,15 +1,18 @@
 # 🗄️ Portafolio de Proyectos: SQL  
 
-¡Bienvenido/a a mi portafolio! En este repositorio comparto mis proyectos desarrollados con SQL, enfocados DQLs, DMLs y DDLs. Mi objetivo es poder demostrar mis habilidades y experiencia en SQL.
+¡Bienvenido/a a mi portafolio! En este repositorio comparto mis proyectos desarrollados con SQL, enfocados en DQLs, DMLs y DDLs. Mi objetivo es demostrar mis habilidades y experiencia en el manejo de datos.
 
 ![Banner del Portafolio](./sql.png)
 
 ## 📂 Proyectos    
-1. **[Proyectos DQL](./1.%20DQL)**  
 
+* 📁 **[Bases de Datos (Esquemas)](./0.%20Bases%20de%20Datos)** *Scripts para la creación de tablas e inserción de datos iniciales.*
+
+* 📁 **[Proyectos DQL](./1.%20DQL)** *Consultas personalizadas para la extracción y análisis de información.*
 
 ## 📫 Contacto  
 * **Email:** stevenflores260701@gmail.com  
+* **LinkedIn:** [Tu Nombre](aquí_va_tu_link)
 
 ---  
-*Última actualización: 2026*  
+*Última actualización: Mayo 2026*
