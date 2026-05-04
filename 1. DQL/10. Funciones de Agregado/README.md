@@ -12,3 +12,5 @@ Son comúnmente utilizadas junto con `GROUP BY` para resumir información.
 - `MAX()` → Valor máximo  
 
 📌 Son esenciales para el análisis y resumen de datos.
+
+En esta sección se encuentra el script .sql donde aplico las funciones de agregado.
