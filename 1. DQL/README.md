@@ -18,5 +18,6 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 👉 [Funciones de Agregado](./10.%20Funciones%20de%20Agregado)  
 👉 [Clausula GROUP BY](./11.%20Clausula%20GROUP%20BY)  
 👉 [Clausula HAVING](./12.%20Clausula%20HAVING)  
+👉 [Clausula INNER LEFT RIGHT JOIN](./13.%20Clausula%20INNER%20LEFT%20RIGHT%20JOIN)  
 
 📌 Objetivo: Practicar consultas para obtener información de manera eficiente.
