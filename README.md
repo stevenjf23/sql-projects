@@ -8,7 +8,9 @@
 
 * 📁 **[Bases de Datos (Esquemas)](./0.%20Bases%20de%20Datos)** *Scripts para la creación de tablas e inserción de datos iniciales.*
 
-* 📁 **[Proyectos DQL](./1.%20DQL)** 
+* 📁 **[Proyectos DQL](./1.%20DQL)**
+
+* * 📁 **[Proyectos DDL](./2.%20DDL)** 
 
 ## 📫 Contacto  
 * **Email:** stevenflores260701@gmail.com  
