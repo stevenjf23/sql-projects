@@ -28,6 +28,7 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 * 👉 [Manipulacion de Cadenas de Texto](./20.%20Manipulacion%20de%20Cadenas%20de%20Texto)
 * 👉 [Funciones Matematicas](./21.%20Funciones%20Matematicas)
 * 👉 [CTEs](./22.%20CTEs)
+* 👉 [ROW NUMBER](./23.%20ROW%20NUMBER)
 
 ---
 
