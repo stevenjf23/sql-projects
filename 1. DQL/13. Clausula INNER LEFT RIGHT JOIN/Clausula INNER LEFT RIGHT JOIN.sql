@@ -85,3 +85,13 @@ ON series.serie_id = episodios.serie_id
 WHERE episodios.duracion > 30
 ORDER BY series.titulo ASC;
 
+SELECT s.titulo,
+COUNT(e.episodio_id) AS numero_de_episodios,
+AVG(e.rating_imdb) AS promedio_imdb
+FROM series AS s
+INNER JOIN episodios AS e
+ON s.serie_id = e.serie_id
+GROUP BY s.serie_id
+ORDER BY promedio_imdb DESC
+LIMIT 3;
+
