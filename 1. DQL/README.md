@@ -14,5 +14,6 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 👉 [Operadores de Comparacion](./6.%20Operadores%20de%20Comparacion)  
 👉 [Operadores Logicos](./7.%20Operadores%20Logicos)  
 👉 [Clausula IN y NOT IN](./8.%20Clausula%20IN%20NOT%20IN)  
+👉 [Clausula LIKE](./9.%20Clausula%20LIKE)  
 
 📌 Objetivo: Practicar consultas para obtener información de manera eficiente.
