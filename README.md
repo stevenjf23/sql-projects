@@ -12,7 +12,6 @@
 
 ## 📫 Contacto  
 * **Email:** stevenflores260701@gmail.com  
-* **LinkedIn:** [Tu Nombre](aquí_va_tu_link)
 
 ---  
 *Última actualización: Mayo 2026*
