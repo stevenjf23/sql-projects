@@ -9,7 +9,6 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 👉 **[Sentencia SELECT](./1.%20Sentencia%20SELECT)**  
 👉 **[Cláusula DISTINCT](./2.%20Clausula%20DISTINCT)**  
 👉 **[Cláusula ORDER BY](./3.%20Clausula%20ORDER%20BY)**
-
 👉 **[Cláusula LIMIT](./4.%20Clausula%20LIMIT)**
 
 📌 Objetivo: Practicar consultas para obtener información de manera eficiente.
