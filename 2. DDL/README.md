@@ -2,12 +2,15 @@
 
 Este proyecto contiene comandos DDL (Data Definition Language) en SQL.
 
-Los comandos DDL permiten **definir, modificar y gestionar la estructura** de los objetos en una base de datos (como tablas y bases de datos).
+Los comandos DDL permiten **definir, modificar y gestionar la estructura** de los objetos en una base de datos.
 
 ## 📂 Proyectos Personales
 
-* 👉 [CREATE](./1.%20CREATE)
-
+* 👉 [Comando CREATE](./1.CREATE)
+* 👉 [Comando USE](./2.USE)
+* 👉 [Comando DESCRIBE](./3.DESCRIBE)
+* 👉 [Comando ALTER](./4.ALTER)
+* 👉 [Comando DROP](./5.DROP)
 
 ---
 
