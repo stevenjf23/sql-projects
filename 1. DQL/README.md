@@ -29,6 +29,7 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 * 👉 [Funciones Matematicas](./21.%20Funciones%20Matematicas)
 * 👉 [CTEs](./22.%20CTEs)
 * 👉 [ROW NUMBER](./23.%20ROW%20NUMBER)
+* 👉 [Clausula PARTITION BY](./24.%20Clausula%20PARTITION%20BY)
 
 ---
 
