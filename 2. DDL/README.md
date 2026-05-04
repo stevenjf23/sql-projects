@@ -7,10 +7,10 @@ Los comandos DDL permiten **definir, modificar y gestionar la estructura** de lo
 ## 📂 Proyectos Personales
 
 * 👉 [Comando CREATE](./1.CREATE)
-* 👉 [Comando USE](./2.USE)
-* 👉 [Comando DESCRIBE](./3.DESCRIBE)
-* 👉 [Comando ALTER](./4.ALTER)
-* 👉 [Comando DROP](./5.DROP)
+* 👉 [Comando USE](./2.%20USE)
+* 👉 [Comando DESCRIBE](./3.%20DESCRIBE)
+* 👉 [Comando ALTER](./4.%20ALTER)
+* 👉 [Comando DROP](./5.%20DROP)
 
 ---
 
