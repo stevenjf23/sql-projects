@@ -10,7 +10,9 @@
 
 * 📁 **[Proyectos DQL](./1.%20DQL)**
 
-* 📁 **[Proyectos DDL](./2.%20DDL)** 
+* 📁 **[Proyectos DDL](./2.%20DDL)**
+
+* * 📁 **[Proyectos DML](./2.%20DML)** 
 
 ## 📫 Contacto  
 * **Email:** stevenflores260701@gmail.com  
