@@ -22,5 +22,6 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 👉 [Clausula UNION y UNION ALL](./14.%20Clausula%20UNION%20y%20UNION%20ALL)  
 👉 [Subconsultas](./15.%20Sunconsultas)  
 👉 [Funcion Condicional IF](./16.%20Funcion%20Condicional%20IF)  
+👉 [Funcion Condicional CASE](./17.%20Funcion%20Condicional%20CASE)  
 
 📌 Objetivo: Practicar consultas para obtener información de manera eficiente.
