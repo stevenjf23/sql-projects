@@ -6,7 +6,7 @@ Los comandos DDL permiten **definir, modificar y gestionar la estructura** de lo
 
 ## 📂 Proyectos Personales
 
-* 👉 [Comando CREATE](./1.%20Comando%20CREATE)
+* 👉 [Comando CREATE](./1.%20CREATE)
 
 
 ---
