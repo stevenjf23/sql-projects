@@ -9,4 +9,4 @@ Las cláusulas `JOIN` en SQL se utilizan para **combinar datos de múltiples tab
 
 📌 Son esenciales para trabajar con bases de datos relacionales.
 
-En esta sección se encuentra el script .sql donde aplico las clausulas INNER, LEFT, RIGHT.
+En esta sección se encuentra el script .sql donde aplico las clausulas INNER, LEFT, RIGHT JOIN.
