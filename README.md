@@ -6,7 +6,7 @@
 
 ## 📂 Proyectos Destacados  
 
-1. **[Proeyectos DQL](./1.%20DQL/1.%20Sentencia%20SELECT)**  
+1. **[Proyectos DQL](./1.%20DQL/1.%20Sentencia%20SELECT)**  
 
 
 ## 📫 Contacto  
