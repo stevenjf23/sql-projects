@@ -10,3 +10,5 @@ Permiten construir filtros más complejos al trabajar con múltiples criterios.
 - `NOT` → Niega una condición  
 
 📌 Son esenciales para crear consultas más avanzadas y precisas.
+
+En esta sección se encuentra el script .sql donde aplico los Operadores Logicos.
