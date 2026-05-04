@@ -22,3 +22,5 @@ nombre VARCHAR(255) NOT NULL,
 ubicacion VARCHAR(255)
 );
 
+
+CREATE INDEX idx_apellido ON Empleados(apellido);
