@@ -6,18 +6,7 @@
 
 ## 📂 Proyectos Destacados  
 
-Actualmente, estos son mis proyectos enfocados en DQL (Data Query Language):  
-
-1. **[Sentencias SELECT](./1.%20DQL/1.%20Sentencia%20SELECT)**  
-
-
-## ⚙️ Tecnologías Utilizadas  
-
-- SQL (MySQL / PostgreSQL / SQL Server)  
-- Consultas DQL (SELECT)  
-- Filtrado de datos (WHERE)  
-- Ordenamiento (ORDER BY)  
-- Agrupación de datos (GROUP BY)  
+1. **[Proeyectos DQL](./1.%20DQL/1.%20Sentencia%20SELECT)**  
 
 
 ## 📫 Contacto  
