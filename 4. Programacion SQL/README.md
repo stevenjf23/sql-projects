@@ -14,4 +14,4 @@ La programación en SQL permite automatizar procesos, garantizar la integridad d
 
 ---
 
-📌 **Objetivo:** Implementar lógica robusta del lado del servidor para optimizar la gestión y seguridad de la información.
+📌 **Objetivo:** Practicar e Implementar lógica robusta del lado del servidor para optimizar la gestión y seguridad de la información.
