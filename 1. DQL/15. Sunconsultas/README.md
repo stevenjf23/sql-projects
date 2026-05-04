@@ -6,4 +6,4 @@ Se utilizan para obtener resultados que sirven como condición o apoyo en la con
 
 📌 Pueden utilizarse para realizar consultas más avanzadas.
 
-En esta sección se encuentra el script .sql donde aplico los conceptos.
+En esta sección se encuentra el script .sql donde aplico las subconsultas.
