@@ -2,7 +2,7 @@
 
 Este proyecto contiene consultas DQL (Data Query Language) en SQL.
 
-Las consultas DQL permiten **consultar y recuperar información** de una base de datos.
+Las consultas DQL permiten **consultar y recuperar información** de una base de datos personal.
 
 ## 📂 Proyectos Personales
 
