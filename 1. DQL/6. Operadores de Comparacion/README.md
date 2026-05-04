@@ -13,3 +13,5 @@ Permiten comparar valores y filtrar resultados según criterios específicos.
 - `>=` Mayor o igual que  
 
 📌 Son fundamentales para realizar consultas precisas.
+
+En esta sección se encuentra el script .sql donde aplico los Operadores de Comparacion.
