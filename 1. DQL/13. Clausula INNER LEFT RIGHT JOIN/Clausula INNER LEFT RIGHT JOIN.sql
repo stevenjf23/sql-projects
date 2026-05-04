@@ -95,3 +95,8 @@ GROUP BY s.serie_id
 ORDER BY promedio_imdb DESC
 LIMIT 3;
 
+SELECT SUM(episodios.duracion) AS duracion_total
+FROM Series
+INNER JOIN episodios ON series.serie_id = episodios.serie_id
+WHERE series.titulo = 'Stranger Things';
+
