@@ -7,9 +7,9 @@ La programación en SQL permite automatizar procesos, garantizar la integridad d
 ## 📂 Proyectos Personales
 
 * 👉 [Procedimientos almacenados](./1.Procedimientos%20almacenados)
-* 👉 [Vistas](./3.%20Vistas)
-* 👉 [Vistas Materializadas](./4.%20Vistas%20Materializadas)
-* 👉 [Triggers](./2.%20Triggers)
+* 👉 [Vistas](./2.%20Vistas)
+* 👉 [Vistas Materializadas](./3.%20Vistas%20Materializadas)
+* 👉 [Triggers](./4.%20Triggers)
 
 ---
 
