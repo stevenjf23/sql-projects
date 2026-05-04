@@ -4,8 +4,7 @@
 
 ![Banner del Portafolio](./sql.png)
 
-## 📂 Proyectos  
-0. **[Bases de Datos](./0.%20Bases%20de%Datos)**  
+## 📂 Proyectos    
 1. **[Proyectos DQL](./1.%20DQL)**  
 
 
