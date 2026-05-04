@@ -7,3 +7,5 @@ Las cláusulas `UNION` y `UNION ALL` se utilizan en SQL para **combinar los resu
 - `UNION ALL` → Combina resultados incluyendo duplicados  
 
 📌 Las consultas deben tener el mismo número de columnas y tipos de datos compatibles.
+
+En esta sección se encuentra el script .sql donde aplico las clasulas UNION y UNION ALL.
