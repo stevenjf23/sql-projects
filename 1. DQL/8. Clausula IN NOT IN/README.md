@@ -6,3 +6,5 @@ Las cláusulas `IN` y `NOT IN` se utilizan en SQL para **filtrar registros** com
 - `NOT IN` → Selecciona los registros que **no** coinciden con los valores de la lista  
 
 📌 Son útiles para simplificar múltiples condiciones en una consulta.
+
+En esta sección se encuentra el script .sql donde aplico la clausulas IN y NOT IN.
