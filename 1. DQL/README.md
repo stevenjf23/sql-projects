@@ -32,6 +32,7 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 * 👉 [Clausula PARTITION BY](./24.%20Clausula%20PARTITION%20BY)
 * 👉 [RANK](./25.%20RANK)
 * 👉 [DENSE RANK](./26.%20DENSE%20RANK)
+* 👉 [REGEXP](./27.%20REGEXP)
 
 ---
 
