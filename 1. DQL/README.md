@@ -16,5 +16,6 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 👉 [Clausula IN y NOT IN](./8.%20Clausula%20IN%20NOT%20IN)  
 👉 [Clausula LIKE](./9.%20Clausula%20LIKE)  
 👉 [Funciones de Agregado](./10.%20Funciones%20de%20Agregado)  
+👉 [Clausula GROUP BY](./11.%20Clausula%20GROUP%20BY)  
 
 📌 Objetivo: Practicar consultas para obtener información de manera eficiente.
