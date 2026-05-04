@@ -4,7 +4,7 @@ Este proyecto contiene scripts avanzados que demuestran el uso de lógica de pro
 
 La programación en SQL permite automatizar procesos, garantizar la integridad de los datos y mejorar el rendimiento de las aplicaciones.
 
-## 📂 Conceptos Aplicados
+## 📂 Proyectos Personales
 
 * 👉 [Procedimientos almacenados](./1.Procedimientos%20almacenados)
 * 👉 [Triggers](./2.%20Triggers)
