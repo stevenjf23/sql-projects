@@ -4,22 +4,13 @@ Este proyecto contiene scripts avanzados que demuestran el uso de lógica de pro
 
 La programación en SQL permite automatizar procesos, garantizar la integridad de los datos y mejorar el rendimiento de las aplicaciones.
 
-## 📂 Proyectos Personales
+## 📂 Conceptos Aplicados
 
-* 👉 [Stored Procedures](./1.%20Stored%20Procedures)  
-*Scripts para ejecutar bloques de código reutilizables y parametrizados.*
-
-* 👉 [Triggers](./2.%20Triggers)  
-*Automatización de acciones ante eventos de inserción, actualización o borrado.*
-
-* 👉 [Vistas (Views)](./3.%20Vistas)  
-*Consultas almacenadas para simplificar el acceso a datos complejos.*
-
-* 👉 [Vistas Materializadas](./4.%20Vistas%20Materializadas)  
-*Optimización de rendimiento mediante el almacenamiento físico de resultados de consultas.*
-
-* 👉 [Transacciones](./5.%20Transacciones)  
-*Control de operaciones complejas (COMMIT/ROLLBACK) para asegurar la consistencia.*
+* 👉 [Procedimientos almacenados](./1.Procedimientos%20almacenados)
+* 👉 [Triggers](./2.%20Triggers)
+* 👉 [Vistas](./3.%20Vistas)
+* 👉 [Vistas Materializadas](./4.%20Vistas%20Materializadas)
+* 👉 [Transacciones](./5.%20Transacciones)
 
 ---
 
