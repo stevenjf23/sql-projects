@@ -5,3 +5,5 @@ La cláusula `DISTINCT` se utiliza en SQL para **eliminar valores duplicados** e
 Permite obtener únicamente valores únicos de una o varias columnas al usarla junto con la sentencia `SELECT`.  
 
 📌 Es útil cuando se desea analizar datos sin repeticiones.
+
+En esta sección se encuentra el script .sql donde aplico la clausula DISTINCT.
