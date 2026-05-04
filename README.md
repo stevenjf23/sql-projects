@@ -1,6 +1,6 @@
 # 🗄️ Portafolio de Proyectos: SQL  
 
-¡Bienvenido/a a mi portafolio! En este repositorio comparto mis proyectos desarrollados con SQL, enfocados en consultas y manipulación de datos. Mi objetivo es estructurar información de manera eficiente y obtener insights valiosos mediante consultas optimizadas.
+¡Bienvenido/a a mi portafolio! En este repositorio comparto mis proyectos desarrollados con SQL, enfocados DQLs, DMLs y DDLs. Mi objetivo es poder demostrar mis habilidades y experiencia en SQL.
 
 ![Banner del Portafolio](./sql.png)
 
