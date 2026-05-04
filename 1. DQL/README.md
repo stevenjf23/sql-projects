@@ -7,6 +7,6 @@ Las consultas DQL permiten **consultar y recuperar información** de una base de
 ## 📂 Proyecto
 
 👉 **[Sentencia SELECT](./1.%20Sentencia%20SELECT)**  
-
+👉 **[Clausula DISTINCT(./2.%20Clausula%20DISTINCT)**  
 
 📌 Objetivo: Practicar consultas para obtener información de manera eficiente.
