@@ -8,13 +8,13 @@
 
 * 📁 **[Bases de Datos (Esquemas)](./0.%20Bases%20de%20Datos)** *Scripts para la creación de tablas e inserción de datos iniciales.*
 
-* 📁 **[Proyectos DQL](./1.%20DQL)** *Consultas y extracción de información.*
+* 📁 **[Proyectos DQL](./1.%20DQL)** 
 
-* 📁 **[Proyectos DDL](./2.%20DDL)** *Definición y gestión de estructuras de tablas.*
+* 📁 **[Proyectos DDL](./2.%20DDL)** 
 
-* 📁 **[Proyectos DML](./3.%20DML)** *Manipulación e inserción de registros.*
+* 📁 **[Proyectos DML](./3.%20DML)** 
 
-* 📁 **[Programación SQL](./4.%20Programacion%20SQL)** *Lógica avanzada: Stored Procedures, Triggers y Transacciones.*
+* 📁 **[Proyectos Programación SQL](./4.%20Programacion%20SQL)** 
 
 ## 📫 Contacto  
 * **Email:** stevenflores260701@gmail.com  
