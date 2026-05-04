@@ -15,3 +15,5 @@ SELECT año_lanzamiento, genero, COUNT(serie_id) AS cantidad_de_series FROM Seri
 SELECT actor_id, COUNT(serie_id) AS numero_de_series FROM actuaciones GROUP BY actor_id;
 
 SELECT serie_id, AVG(rating_imdb) AS rating_promedio FROM episodios GROUP BY serie_id ORDER BY rating_promedio DESC;
+
+SELECT genero, COUNT(serie_id) AS cantidad_de_series FROM series GROUP BY genero ORDER BY cantidad_de_series DESC;
