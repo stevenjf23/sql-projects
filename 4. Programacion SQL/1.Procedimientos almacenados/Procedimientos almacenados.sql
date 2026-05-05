@@ -4,10 +4,7 @@ BEGIN
 INSERT INTO Empleados(nombre, apellido, email, depto_id) VALUES (_nombre, _apellido, _email, _depto_id);
 END //
 DELIMITER ;
-
 CALL AgregarEmpleado ('Elena', 'Torres', 'elena.torres@email.com', '3');
-
-
 
 DELIMITER //
 CREATE PROCEDURE AsignarHorasAProyecto(IN proyectoId INT, IN empleadoId INT, IN horasAsignadas INT)
@@ -39,7 +36,6 @@ COMMIT;
 END IF;
 END //
 DELIMITER ;
-
 CALL AsignarHorasAproyecto (1,1,5);
 
 DELIMITER //
@@ -48,7 +44,6 @@ BEGIN
 INSERT INTO departamentos (nombre, ubicacion) VALUES (_nombre, _ubicacion);
 END //
 DELIMITER ;
-
 CALL AgregarDepartamento ('Implementadores', 'Zona 3');
 
 DELIMITER //
@@ -57,8 +52,14 @@ BEGIN
 INSERT INTO Departamentos (nombre, ubicacion) VALUES (_nombre, _ubicacion);
 END //
 DELIMITER ;
-
 CALL AgregarDepartamento('Desarrollo de Software', 'Edificio Nuevas Tecnologias');
+
+CREATE PROCEDURE AgregarDepartamento (IN _nombre VARCHAR(255), IN _ubicacion VARCHAR(255))
+BEGIN
+INSERT INTO departamentos (nombre, ubicacion) VALUES (_nombre, _ubicacion);
+END //
+DELIMITER ;
+CALL AgregarDepartamento ('Implementadores', 'Zona 3');
 
 
 
