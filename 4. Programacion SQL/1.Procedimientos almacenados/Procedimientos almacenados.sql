@@ -41,3 +41,24 @@ END //
 DELIMITER ;
 
 CALL AsignarHorasAproyecto (1,1,5);
+
+DELIMITER //
+CREATE PROCEDURE AgregarDepartamento (IN _nombre VARCHAR(255), IN _ubicacion VARCHAR(255))
+BEGIN
+INSERT INTO departamentos (nombre, ubicacion) VALUES (_nombre, _ubicacion);
+END //
+DELIMITER ;
+
+CALL AgregarDepartamento ('Implementadores', 'Zona 3');
+
+DELIMITER //
+CREATE PROCEDURE AgregarDepartamento (IN _nombre VARCHAR(255), IN _ubicacion VARCHAR(255))
+BEGIN
+INSERT INTO Departamentos (nombre, ubicacion) VALUES (_nombre, _ubicacion);
+END //
+DELIMITER ;
+
+CALL AgregarDepartamento('Desarrollo de Software', 'Edificio Nuevas Tecnologias');
+
+
+
